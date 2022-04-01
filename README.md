@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm Touhid
 #### I am a Data Analyst
-![I am a Data Analyst](https://media-exp1.licdn.com/dms/image/C5116AQEmiU7K56AIiw/profile-displaybackgroundimage-shrink_350_1400/0/1575486211533?e=1654128000&v=beta&t=mSTZyELpHbQgryAQ2x40rQUFypcYm0-vNgHKubBZhUw)
+
 
 I am very passionate about programming and an enthusiastic learner in Data Analyst field. I have successfully completed the “Google Data Analytics Professional Certificate” Course. I dream to be an expert Data Analyst so that I can build professional Data science tools that has business value. I am looking for a junior data analyst position in a reputed software company thatcan help me to achieve my goal.
 
