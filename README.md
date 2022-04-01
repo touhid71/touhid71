@@ -6,7 +6,7 @@
 
 I am very passionate about programming and an enthusiastic learner in Data Analyst field. I have successfully completed the “Google Data Analytics Professional Certificate” Course. I dream to be an expert Data Analyst so that I can build professional Data science tools that has business value. I am looking for a junior data analyst position in a reputed software company thatcan help me to achieve my goal.
 
-Skills: Skills: Data Analysis: Excel | SPSS | Numpy | Jupyter Notebooks| Pandas Data Visualization & Reporting: Power BI | Tableau Database: Mysql Project Coordination & management: Trello Software & Web Development: Python | JavaScript | HTML5 | CSS3 | Bootstrap |TailWindCSS | React js
+Skills: Data Analysis: Excel | SPSS | Numpy | Jupyter Notebooks| Pandas Data Visualization & Reporting: Power BI | Tableau Database: Mysql Project Coordination & management: Trello Software & Web Development: Python | JavaScript | HTML5 | CSS3 | Bootstrap |TailWindCSS | React js
 
 - 🌱 I’m currently learning MERN Stack 
 - 💬 Ask me about Data Analytics 
