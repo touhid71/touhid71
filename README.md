@@ -1,6 +1,6 @@
 ![I am a Data Analyst](https://media-exp1.licdn.com/dms/image/C5116AQEmiU7K56AIiw/profile-displaybackgroundimage-shrink_350_1400/0/1575486211533?e=1654128000&v=beta&t=mSTZyELpHbQgryAQ2x40rQUFypcYm0-vNgHKubBZhUw)
 
-# Hi 👋, I'm Touhid
+# Hi 👋, I'm Touhid.
 ### Data Analyst
 
 
